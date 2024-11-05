@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545838385247",
+    "project_id": "login-5134a",
+    "storage_bucket": "login-5134a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545838385247:android:aec77bc25092ec989273ea",
+        "android_client_info": {
+          "package_name": "com.salma.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545838385247-b7vvkiurpfm7f6dvegkirl0ucv4dtahb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salma.login",
+            "certificate_hash": "cc2d4214bcf232283fd295e5f797212669d47479"
+          }
+        },
+        {
+          "client_id": "545838385247-1r0f8g37amuh66lp1fqe66nlspgq6a7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO4gb1Tpp3mTWfyEISUEdfG96FqIEWliY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545838385247-1r0f8g37amuh66lp1fqe66nlspgq6a7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
