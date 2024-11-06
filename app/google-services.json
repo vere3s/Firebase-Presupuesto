@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "545838385247-p94fo0jp65g4scu56o5dmqtrtp3rud20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salma.login",
+            "certificate_hash": "383d341aeb8ce705ab356544268030f7c2035e48"
+          }
+        },
+        {
           "client_id": "545838385247-1r0f8g37amuh66lp1fqe66nlspgq6a7a.apps.googleusercontent.com",
           "client_type": 3
         }
